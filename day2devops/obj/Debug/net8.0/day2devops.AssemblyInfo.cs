@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("day2devops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd044881aab7d55fc86b954d7d9b596147c633f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62761991784790b220a1374c6e7dcfd61072d411")]
 [assembly: System.Reflection.AssemblyProductAttribute("day2devops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("day2devops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

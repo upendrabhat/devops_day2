@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\devops_day2\\day2devops\\day2devops.csproj": {}
+    "C:\\Users\\Administrator\\Source\\Repos\\devops_day2\\day2devops\\day2devops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\devops_day2\\day2devops\\day2devops.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\devops_day2\\day2devops\\day2devops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\devops_day2\\day2devops\\day2devops.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\devops_day2\\day2devops\\day2devops.csproj",
         "projectName": "day2devops",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\devops_day2\\day2devops\\day2devops.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\devops_day2\\day2devops\\day2devops.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Administrator\\source\\repos\\devops_day2\\day2devops\\obj\\",
         "projectStyle": "PackageReference",
